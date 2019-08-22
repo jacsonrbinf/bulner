@@ -1,6 +1,6 @@
 # BULNER; BUg Localization with word embeddings and NEtwork Regularization
 
-This project proposes an IR-based bug localization method, named BULNER, which stands for BUg Localization with word embeddings and Network Regularization.
+Bug localization (BL) from the bug report is the strategic activity of the software maintaining process. Because BL is a costly and tedious activity, BL techniques information retrieval-based and machine learning-based could aid software engineers. We propose a method for BUg Localization with word embeddings and Network Regularization (BULNER).
 
 ```bibtex
 @inproceedings{Barbosa2019,
@@ -13,4 +13,20 @@ This project proposes an IR-based bug localization method, named BULNER, which s
 ```
 ## Dataset
 
+We obtained data (source code and code metrics) from three open source projects: 
+
+1. AspectJ: https://github.com/eclipse/org.aspectj
+
+
+2. Birt: https://github.com/eclipse/birt
+
+
+3. Tomcat: https://github.com/apache/tomcat
+
+We extracted bug report data associated with each project from the Bugzilla repository provided by Ye et al. 2014.
+
 ## BULNER source code
+
+## Acknowledgment
+
+This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
