@@ -23,7 +23,10 @@ We obtained data (source code and code metrics) from three open source projects:
 
 3. Tomcat: https://github.com/apache/tomcat
 
+Also, we used Understand tool to calculate different code metrics (object-oriented, volume and complexity metrics). The script to extract code metrics is available on the following repository: https://github.com/fr3d3rico/bug-metrics-research.
+
 We extracted bug report data associated with each project from the Bugzilla repository provided by Ye et al. 2014.
+
 
 ## BULNER source code
 
