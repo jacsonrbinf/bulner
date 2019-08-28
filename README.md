@@ -8,7 +8,7 @@ Bug localization (BL) from the bug report is the strategic activity of the softw
   title = {BULNER: BUg Localization with word embeddings and NEtwork Regularization},
   booktitle = {Proceedings of the VII Workshop on Software Visualization, Evolution and Maintenance (VEM '19)},
   year = {2019},
-  url = {https://arxiv.org/abs/???????}
+  url = {https://arxiv.org/abs/1908.09876}
 }
 ```
 ## Dataset
