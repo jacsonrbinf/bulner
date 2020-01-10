@@ -30,6 +30,8 @@ We extracted bug report data associated with each project from the Bugzilla repo
 
 ## BULNER source code
 
+Bulner source code is available through [Notebooks](notebooks/).
+
 ## Acknowledgment
 
 This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
