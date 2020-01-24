@@ -1,6 +1,6 @@
 # BULNER; BUg Localization with word embeddings and NEtwork Regularization
 
-Bug localization (BL) from the bug report is the strategic activity of the software maintaining process. Because BL is a costly and tedious activity, BL techniques information retrieval-based and machine learning-based could aid software engineers. We propose a method for BUg Localization with word embeddings and Network Regularization (BULNER).
+Bug localization (BL) from the bug report is the strategic activity of the software maintaining process. Because BL is a costly and tedious activity, BL techniques information retrieval-based and machine learning-based could aid software engineers. We propose a method for BUg Localization with word embeddings and Network Regularization (BULNER). The preliminary results suggest that BULNER has better performance than two state-of-the-art methods.
 
 ```bibtex
 @inproceedings{Barbosa2019,
@@ -8,7 +8,7 @@ Bug localization (BL) from the bug report is the strategic activity of the softw
   title = {BULNER: BUg Localization with word embeddings and NEtwork Regularization},
   booktitle = {Proceedings of the VII Workshop on Software Visualization, Evolution and Maintenance (VEM '19)},
   year = {2019},
-  url = {https://arxiv.org/abs/1908.09876}
+  url = {https://doi.org/10.5753/vem.2019.7580}
 }
 ```
 ## Dataset
